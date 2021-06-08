@@ -7,7 +7,9 @@ Pizza Ordering Instructions
     2a. Choose type of crust
     2b. Choose type of sauce
     2c. Choose toppings
-3. Decide method of ordering (via Phone or Online if available)
+3. Decide method of ordering
+    3a. Order by phone
+    3b. Order via online (if available)
 4. Place order
     4a. If ordering by phone call the resturants number
     4b. If ordering online place order via online terminal

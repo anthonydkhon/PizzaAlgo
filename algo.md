@@ -2,6 +2,7 @@
 
 1. Decide which business to order from  
     1a. Google "Pizza Reviews"  
+        OR  
     1b. Choose a business that suits your liking  
 2. Decide which type of pizza to order  
     2a. Choose type of crust  

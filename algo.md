@@ -21,3 +21,4 @@
     7a. Pay driver if you have not paid yet  
     7b. Tip driver (optional)  
 8. Enjoy your pizza!
+9. Repeat from step 1 when necessary
